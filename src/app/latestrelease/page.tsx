@@ -44,7 +44,7 @@ function page(){
         <div className="m-25">
           <iframe
             className="aspect-video ..."
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+            src="https://www.youtube.com/watch?v=uM5XFRBRqnQ"
           ></iframe>
         </div>
       </section>
@@ -257,60 +257,51 @@ function page(){
           </ul>
         </div>
       </div>
-
-
-
       <section className="bg-gray-600 text-white">
-  <div className="grid">
-        <div >
-          <img
-            src="/logo_with_new_bg.png"
-            alt=""
-            className="w-10 h-10 "
-        />
-          <h1 className="text-3xl font-bold">CoreLine
-            
-          </h1>
-          <p className="mt-2">
-            The ultimate gaming destination where gamers unite, explore,<br/> and
-            conquer new digital realms.
-          </p>
-        </div>
+        <div className="grid">
+          <div>
+            <img src="/logo_with_new_bg.png" alt="" className="w-10 h-10 " />
+            <h1 className="text-3xl font-bold">CoreLine</h1>
+            <p className="mt-2">
+              The ultimate gaming destination where gamers unite, explore,
+              <br /> and conquer new digital realms.
+            </p>
+          </div>
 
-        <div>
-          <h2 className="text-xl font-semibold mb-2">Quick Links</h2>
-          <ul className="space-y-1">
-            <li>Home</li>
-            <li>About Us</li>
-            <li>Services</li>
-            <li>Contact</li>
-          </ul>
-        </div>
+          <div>
+            <h2 className="text-xl font-semibold mb-2">Quick Links</h2>
+            <ul className="space-y-1">
+              <li>Home</li>
+              <li>About Us</li>
+              <li>Services</li>
+              <li>Contact</li>
+            </ul>
+          </div>
 
-        <div>
-          <h2 className="text-xl font-semibold mb-2">Games</h2>
-          <ul className="space-y-1">
-            <li>Action</li>
-            <li>Horror</li>
-            <li>Strategy</li>
-            <li>RPG</li>
-          </ul>
-        </div>
+          <div>
+            <h2 className="text-xl font-semibold mb-2">Games</h2>
+            <ul className="space-y-1">
+              <li>Action</li>
+              <li>Horror</li>
+              <li>Strategy</li>
+              <li>RPG</li>
+            </ul>
+          </div>
 
-        <div>
-          <h2 className="text-xl font-semibold mb-2">Support</h2>
-          <ul className="space-y-1">
-            <li>Terms of Service</li>
-            <li>Privacy Policy</li>
-            <li>FAQ</li>
-            <li>Help Center</li>
-          </ul>
-        </div>
+          <div>
+            <h2 className="text-xl font-semibold mb-2">Support</h2>
+            <ul className="space-y-1">
+              <li>Terms of Service</li>
+              <li>Privacy Policy</li>
+              <li>FAQ</li>
+              <li>Help Center</li>
+            </ul>
+          </div>
 
-        <div className="col-span-4 text-center text-gray-400 mt-10">
-          © 2025 CoreLine. All rights reserved.
+          <div className="col-span-4 text-center text-gray-400 mt-10">
+            © 2025 CoreLine. All rights reserved.
+          </div>
         </div>
-      </div>
       </section>
     </>
   );
