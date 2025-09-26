@@ -19,7 +19,7 @@ function Navbar() {
        
         <Link href={"/services"}><li>Services</li></Link>
         <Link href={"/Latest release"}><li>Latest Release</li></Link>
-        <Link  href={"/Contact"}> <li>Contact</li></Link>
+        <Link  href={"/contact"}> <li>Contact</li></Link>
       </ul>
     </div>
   );
